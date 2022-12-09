@@ -1,0 +1,10 @@
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\bin\Debug\wf_quanLyHoaDon.exe.config
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\bin\Debug\wf_quanLyHoaDon.exe
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\bin\Debug\wf_quanLyHoaDon.pdb
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.Form_HangHoa.resources
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.Form_Main.resources
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.Properties.Resources.resources
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.csproj.GenerateResource.cache
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.csproj.CoreCompileInputs.cache
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.exe
+D:\Users\Acer\dev\C#\wf_quanLyHoaDon\wf_quanLyHoaDon\wf_quanLyHoaDon\obj\Debug\wf_quanLyHoaDon.pdb
